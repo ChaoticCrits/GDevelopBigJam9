@@ -20,16 +20,91 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3645833333333333,
+    "zoomFactor": 0.4448515998886649,
     "windowMask": false,
-    "selectedLayer": ""
+    "selectedLayer": "",
+    "gameEditorMode": "instances-editor"
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
-  "objects": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TransparentButtonWithWhiteBlueBorder",
+      "persistentUuid": "23f11944-a6f9-4b04-a77c-ed9149f95e74",
+      "width": 0,
+      "x": 203,
+      "y": 173,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TransparentButtonWithWhiteBlueBorder",
+      "persistentUuid": "2d6b6826-ac1b-4374-897d-fc7e8e8e7573",
+      "width": 0,
+      "x": 205,
+      "y": 293,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TransparentButtonWithWhiteBlueBorder",
+      "persistentUuid": "c1dbb738-0db4-4c13-b1de-8e26acce9a17",
+      "width": 0,
+      "x": 205,
+      "y": 421,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
+      "name": "TransparentButtonWithWhiteBlueBorder",
+      "persistentUuid": "9615a934-ce8b-4b54-8f98-793b338079b1",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variant": "Transparent Button With White Blue Border",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 0,
+        "RightPadding": 0,
+        "PressedLabelOffsetY": 4,
+        "BottomPadding": 6,
+        "TopPadding": 0,
+        "HoveredFadeOutDuration": 0,
+        "LabelText": "Button"
+      }
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "TransparentButtonWithWhiteBlueBorder"
+      }
+    ]
   },
   "events": [],
   "layers": [
