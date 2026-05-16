@@ -211,6 +211,66 @@
           "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Backgrounds/tiled_Background Stone.png",
           "name": "gdevelop-private-asset-storage"
         }
+      },
+      {
+        "file": "assets/tiled_Blank.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Blank.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Plank/tiled_Blank.png",
+          "name": "gdevelop-private-asset-storage"
+        }
+      },
+      {
+        "file": "assets/tiled_Plank Floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Plank Floor.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Plank/tiled_Plank Floor.png",
+          "name": "gdevelop-private-asset-storage"
+        }
+      },
+      {
+        "file": "assets/tiled_Plank Wall Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Plank Wall Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Plank/tiled_Plank Wall Left.png",
+          "name": "gdevelop-private-asset-storage"
+        }
+      },
+      {
+        "file": "assets/tiled_Plank Wall Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Plank Wall Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Plank/tiled_Plank Wall Right.png",
+          "name": "gdevelop-private-asset-storage"
+        }
+      },
+      {
+        "file": "assets/tiled_Plank Horizontal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Plank Horizontal.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Plank/tiled_Plank Horizontal.png",
+          "name": "gdevelop-private-asset-storage"
+        }
       }
     ]
   },

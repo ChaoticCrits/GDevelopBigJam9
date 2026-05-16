@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4027225833325915,
+    "zoomFactor": 1.6215651521552195,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -44,6 +44,90 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 13,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Plank_Floor",
+      "persistentUuid": "da1f8e9d-73cf-42f5-9eab-29099d12006f",
+      "width": 269,
+      "x": 282,
+      "y": 935,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 139,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Blank",
+      "persistentUuid": "c9de965e-2923-43c7-b070-481434dfa2ed",
+      "width": 285,
+      "x": 266,
+      "y": 947,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Plank_Wall_Left",
+      "persistentUuid": "9f2893be-a377-4d80-a6e1-84bff38f3219",
+      "width": 16,
+      "x": 269,
+      "y": 825,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 175,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Blank",
+      "persistentUuid": "128ef1b8-c089-4f24-bae9-ef075efd2f12",
+      "width": 53,
+      "x": 221,
+      "y": 825,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Blank",
+      "persistentUuid": "d4a68f18-d9eb-49ea-b453-b81a040e506f",
+      "width": 0,
+      "x": 267,
+      "y": 936,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -58,6 +142,66 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "assetStoreId": "206897818e4e582343bac6354b71656a32a450a47572f6399a506ec41d95d5d7",
+      "height": 16,
+      "name": "Blank",
+      "persistentUuid": "06d17547-f2f4-4d81-a4eb-2a05635f8b21",
+      "texture": "tiled_Blank.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 16,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "d4ece5f037994d8e820eee4d7d13bf09f788217ba6db3405f4192f9bf6400545",
+      "height": 16,
+      "name": "Plank_Floor",
+      "persistentUuid": "17fb3576-7490-41cf-b6ad-52e929816284",
+      "texture": "tiled_Plank Floor.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 16,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "f89271bbeaf2c849610fb66e33fcf61fb075d67d30796e3f903ad42ea8dae70e",
+      "height": 16,
+      "name": "Plank_Wall_Left",
+      "persistentUuid": "08f20efb-8b1e-4677-9e21-a7f0d5cbf9d8",
+      "texture": "tiled_Plank Wall Left.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 16,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "f36e7ed14ca7635c42d1a01eada4115f02f24f60e98775cf33ac677eb3a3fa3c",
+      "height": 16,
+      "name": "Plank_Wall_Right",
+      "persistentUuid": "3c03e313-c781-474e-9f3b-91753f65dadf",
+      "texture": "tiled_Plank Wall Right.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 16,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "d435a8fdf4e129155ba221864d6c3534bb5e102ff5325607b43ec892f0d69b28",
+      "height": 16,
+      "name": "Plank_Horizontal",
+      "persistentUuid": "8dc78dc9-4630-48ee-aabe-e239c9baa219",
+      "texture": "tiled_Plank Horizontal.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 16,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -65,6 +209,21 @@
     "children": [
       {
         "objectName": "Background_Stone"
+      },
+      {
+        "objectName": "Blank"
+      },
+      {
+        "objectName": "Plank_Floor"
+      },
+      {
+        "objectName": "Plank_Wall_Left"
+      },
+      {
+        "objectName": "Plank_Wall_Right"
+      },
+      {
+        "objectName": "Plank_Horizontal"
       }
     ]
   },
