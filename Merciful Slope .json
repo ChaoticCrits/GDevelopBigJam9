@@ -199,6 +199,18 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
           "name": "Kenney Mini Square.ttf"
         }
+      },
+      {
+        "file": "assets/tiled_Background Stone.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Background Stone.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://private-assets.gdevelop.io/da29c417-3b80-4e60-866a-fbfe18e20d7e/resources/Backgrounds/tiled_Background Stone.png",
+          "name": "gdevelop-private-asset-storage"
+        }
       }
     ]
   },

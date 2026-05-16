@@ -1,20 +1,72 @@
 {
-  "b": 209,
+  "b": 0,
   "disableInputWhenNotFocused": true,
   "mangledName": "Level",
   "name": "Level",
-  "r": 209,
+  "r": 0,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
-  "v": 209,
-  "uiSettings": {},
+  "v": 0,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridDepth": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridOffsetZ": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.4027225833325915,
+    "windowMask": false,
+    "selectedLayer": "",
+    "gameEditorMode": "instances-editor"
+  },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
-  "objects": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1543,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Background_Stone",
+      "persistentUuid": "5852989b-f63c-46b9-ae20-b0287b63eb6e",
+      "width": 1921,
+      "x": -1,
+      "y": -467,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "c5ccab3f924da9b1e8d7f8af18f682adcfeab5c9a47e0d5266ff9efded751892",
+      "height": 48,
+      "name": "Background_Stone",
+      "persistentUuid": "7fc79424-d788-479a-9ba8-dbf932691a11",
+      "texture": "tiled_Background Stone.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 48,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Background_Stone"
+      }
+    ]
   },
   "events": [],
   "layers": [
